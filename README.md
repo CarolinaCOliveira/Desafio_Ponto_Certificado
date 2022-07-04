@@ -3,10 +3,10 @@
 Exercícios Propostos Processo Seletivo - Programa de Estágio Ponto Certificado Stefanini
 
 
-|     Desafio DIO     |    Link do Código   |
+|      Exercícios     |    Link do Código   |
 | ------------------- | ------------------- |
-|      Calculadora    |  [Código]() |
-|  Ficha de Cadastro  |  [Código](https://github.com/CarolinaCOliveira/Desafio_Stefanini/tree/main/ficha_cadastro) |
+|      Calculadora    |  [Código](https://github.com/CarolinaCOliveira/Desafio_Ponto_Certificado/tree/main/calc_projeto) |
+|  Ficha de Cadastro  |  [Código](https://github.com/CarolinaCOliveira/Desafio_Ponto_Certificado/tree/main/ficha_cadastro) |
 
 
 
